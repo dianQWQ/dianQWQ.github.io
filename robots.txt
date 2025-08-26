@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://dianqwq.github.io/sitemap.xml
