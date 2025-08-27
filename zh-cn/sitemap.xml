@@ -3,18 +3,18 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
 
   <url>
-    <loc>https://dianqwq.github.io/</loc>
+    <loc>https://dianQWQ.github.io/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
       hreflang="en"
-      href="https://dianqwq.github.io/en/"
+      href="https://dianQWQ.github.io/en/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="zh-cn"
-      href="https://dianqwq.github.io/"
+      href="https://dianQWQ.github.io/"
     />
   </url>
 </urlset>
